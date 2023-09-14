@@ -3,7 +3,7 @@
 </div>  
 
 #### *<div align="center">Hello, I'm Justyna</div>*  
-<div align="center"><em>sophomore student of software engineering at the University of Gdańsk</em></div>
+<div align="center"><em>3rd year IT student at the University of Gdańsk</em></div>
 <br/>  
 
 <div align="center"> 🌱 currently learning:
